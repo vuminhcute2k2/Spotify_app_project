@@ -122,7 +122,7 @@ class _ContinueScreenState extends State<ContinueScreen> {
                                       padding: EdgeInsets.all(16.0),
                                       decoration: BoxDecoration(
                                         color: Colors.white.withOpacity(
-                                            0.5), // Độ trong suốt của màu xanh
+                                            0.5), 
                                         borderRadius: BorderRadius.circular(80),
                                       ),
                                       child: SvgPicture.asset(
